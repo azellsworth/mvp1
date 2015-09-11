@@ -7,3 +7,5 @@ meatloaf/www/lib/
 
 #build/dist
 meatloaf/www/dist
+
+examples/
